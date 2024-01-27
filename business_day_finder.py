@@ -121,6 +121,9 @@ def find_business_day(base_date: date, weekends_and_holiday_dates: list, directi
     Returns:
         - date: The next or previous business day.
     """
+    if direction not in {'next', 'previous'}:
+        raise ValueError(f'Invalid value: {direction}. Accepted values are "next" or "previous".')
+
 
     # Set the step for searching forward or backward
     step = 1 if direction == 'next' else -1

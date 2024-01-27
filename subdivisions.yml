@@ -1,0 +1,2412 @@
+Albania_:
+    AL_:
+        country: 'AL'
+        subdivision: ''
+Algeria_:
+    DZ_:
+        country: 'DZ'
+        subdivision: ''
+American Samoa_:
+    AS_:
+        country: 'AS'
+        subdivision: ''
+Andorra_:
+    AD_:
+        country: 'AD'
+        subdivision: ''
+Andorra_02:
+    AD_02:
+        country: 'AD'
+        subdivision: '02'
+Andorra_03:
+    AD_03:
+        country: 'AD'
+        subdivision: '03'
+Andorra_04:
+    AD_04:
+        country: 'AD'
+        subdivision: '04'
+Andorra_05:
+    AD_05:
+        country: 'AD'
+        subdivision: '05'
+Andorra_06:
+    AD_06:
+        country: 'AD'
+        subdivision: '06'
+Andorra_07:
+    AD_07:
+        country: 'AD'
+        subdivision: '07'
+Andorra_08:
+    AD_08:
+        country: 'AD'
+        subdivision: '08'
+Angola_:
+    AO_:
+        country: 'AO'
+        subdivision: ''
+Argentina_:
+    AR_:
+        country: 'AR'
+        subdivision: ''
+Armenia_:
+    AM_:
+        country: 'AM'
+        subdivision: ''
+Aruba_:
+    AW_:
+        country: 'AW'
+        subdivision: ''
+Australia_:
+    AU_:
+        country: 'AU'
+        subdivision: ''
+Australia_ACT:
+    AU_ACT:
+        country: 'AU'
+        subdivision: 'ACT'
+Australia_NSW:
+    AU_NSW:
+        country: 'AU'
+        subdivision: 'NSW'
+Australia_NT:
+    AU_NT:
+        country: 'AU'
+        subdivision: 'NT'
+Australia_QLD:
+    AU_QLD:
+        country: 'AU'
+        subdivision: 'QLD'
+Australia_SA:
+    AU_SA:
+        country: 'AU'
+        subdivision: 'SA'
+Australia_TAS:
+    AU_TAS:
+        country: 'AU'
+        subdivision: 'TAS'
+Australia_VIC:
+    AU_VIC:
+        country: 'AU'
+        subdivision: 'VIC'
+Australia_WA:
+    AU_WA:
+        country: 'AU'
+        subdivision: 'WA'
+Austria_:
+    AT_:
+        country: 'AT'
+        subdivision: ''
+Austria_1:
+    AT_1:
+        country: 'AT'
+        subdivision: '1'
+Austria_2:
+    AT_2:
+        country: 'AT'
+        subdivision: '2'
+Austria_3:
+    AT_3:
+        country: 'AT'
+        subdivision: '3'
+Austria_4:
+    AT_4:
+        country: 'AT'
+        subdivision: '4'
+Austria_5:
+    AT_5:
+        country: 'AT'
+        subdivision: '5'
+Austria_6:
+    AT_6:
+        country: 'AT'
+        subdivision: '6'
+Austria_7:
+    AT_7:
+        country: 'AT'
+        subdivision: '7'
+Austria_8:
+    AT_8:
+        country: 'AT'
+        subdivision: '8'
+Austria_9:
+    AT_9:
+        country: 'AT'
+        subdivision: '9'
+Azerbaijan_:
+    AZ_:
+        country: 'AZ'
+        subdivision: ''
+Bahamas_:
+    BS_:
+        country: 'BS'
+        subdivision: ''
+Bahrain_:
+    BH_:
+        country: 'BH'
+        subdivision: ''
+Bangladesh_:
+    BD_:
+        country: 'BD'
+        subdivision: ''
+Barbados_:
+    BB_:
+        country: 'BB'
+        subdivision: ''
+Belarus_:
+    BY_:
+        country: 'BY'
+        subdivision: ''
+Belgium_:
+    BE_:
+        country: 'BE'
+        subdivision: ''
+Belize_:
+    BZ_:
+        country: 'BZ'
+        subdivision: ''
+Bolivia_B:
+    BO_B:
+        country: 'BO'
+        subdivision: 'B'
+Bolivia_C:
+    BO_C:
+        country: 'BO'
+        subdivision: 'C'
+Bolivia_H:
+    BO_H:
+        country: 'BO'
+        subdivision: 'H'
+Bolivia_L:
+    BO_L:
+        country: 'BO'
+        subdivision: 'L'
+Bolivia_N:
+    BO_N:
+        country: 'BO'
+        subdivision: 'N'
+Bolivia_O:
+    BO_O:
+        country: 'BO'
+        subdivision: 'O'
+Bolivia_P:
+    BO_P:
+        country: 'BO'
+        subdivision: 'P'
+Bolivia_S:
+    BO_S:
+        country: 'BO'
+        subdivision: 'S'
+Bolivia_T:
+    BO_T:
+        country: 'BO'
+        subdivision: 'T'
+Bolivia_:
+    BO_:
+        country: 'BO'
+        subdivision: ''
+Bosnia and Herzegovina_BIH:
+    BA_BIH:
+        country: 'BA'
+        subdivision: 'BIH'
+Bosnia and Herzegovina_BRC:
+    BA_BRC:
+        country: 'BA'
+        subdivision: 'BRC'
+Bosnia and Herzegovina_SRP:
+    BA_SRP:
+        country: 'BA'
+        subdivision: 'SRP'
+Bosnia and Herzegovina_:
+    BA_:
+        country: 'BA'
+        subdivision: ''
+Botswana_:
+    BW_:
+        country: 'BW'
+        subdivision: ''
+Brazil_:
+    BR_:
+        country: 'BR'
+        subdivision: ''
+Brazil_AC:
+    BR_AC:
+        country: 'BR'
+        subdivision: 'AC'
+Brazil_AL:
+    BR_AL:
+        country: 'BR'
+        subdivision: 'AL'
+Brazil_AM:
+    BR_AM:
+        country: 'BR'
+        subdivision: 'AM'
+Brazil_AP:
+    BR_AP:
+        country: 'BR'
+        subdivision: 'AP'
+Brazil_BA:
+    BR_BA:
+        country: 'BR'
+        subdivision: 'BA'
+Brazil_CE:
+    BR_CE:
+        country: 'BR'
+        subdivision: 'CE'
+Brazil_DF:
+    BR_DF:
+        country: 'BR'
+        subdivision: 'DF'
+Brazil_ES:
+    BR_ES:
+        country: 'BR'
+        subdivision: 'ES'
+Brazil_GO:
+    BR_GO:
+        country: 'BR'
+        subdivision: 'GO'
+Brazil_MA:
+    BR_MA:
+        country: 'BR'
+        subdivision: 'MA'
+Brazil_MG:
+    BR_MG:
+        country: 'BR'
+        subdivision: 'MG'
+Brazil_MS:
+    BR_MS:
+        country: 'BR'
+        subdivision: 'MS'
+Brazil_MT:
+    BR_MT:
+        country: 'BR'
+        subdivision: 'MT'
+Brazil_PA:
+    BR_PA:
+        country: 'BR'
+        subdivision: 'PA'
+Brazil_PB:
+    BR_PB:
+        country: 'BR'
+        subdivision: 'PB'
+Brazil_PE:
+    BR_PE:
+        country: 'BR'
+        subdivision: 'PE'
+Brazil_PI:
+    BR_PI:
+        country: 'BR'
+        subdivision: 'PI'
+Brazil_PR:
+    BR_PR:
+        country: 'BR'
+        subdivision: 'PR'
+Brazil_RJ:
+    BR_RJ:
+        country: 'BR'
+        subdivision: 'RJ'
+Brazil_RN:
+    BR_RN:
+        country: 'BR'
+        subdivision: 'RN'
+Brazil_RO:
+    BR_RO:
+        country: 'BR'
+        subdivision: 'RO'
+Brazil_RR:
+    BR_RR:
+        country: 'BR'
+        subdivision: 'RR'
+Brazil_RS:
+    BR_RS:
+        country: 'BR'
+        subdivision: 'RS'
+Brazil_SC:
+    BR_SC:
+        country: 'BR'
+        subdivision: 'SC'
+Brazil_SE:
+    BR_SE:
+        country: 'BR'
+        subdivision: 'SE'
+Brazil_SP:
+    BR_SP:
+        country: 'BR'
+        subdivision: 'SP'
+Brazil_TO:
+    BR_TO:
+        country: 'BR'
+        subdivision: 'TO'
+Brunei_:
+    BN_:
+        country: 'BN'
+        subdivision: ''
+Bulgaria_:
+    BG_:
+        country: 'BG'
+        subdivision: ''
+Burkina Faso_:
+    BF_:
+        country: 'BF'
+        subdivision: ''
+Burundi_:
+    BI_:
+        country: 'BI'
+        subdivision: ''
+Cambodia_:
+    KH_:
+        country: 'KH'
+        subdivision: ''
+Cameroon_:
+    CM_:
+        country: 'CM'
+        subdivision: ''
+Canada_:
+    CA_:
+        country: 'CA'
+        subdivision: ''
+Canada_AB:
+    CA_AB:
+        country: 'CA'
+        subdivision: 'AB'
+Canada_BC:
+    CA_BC:
+        country: 'CA'
+        subdivision: 'BC'
+Canada_MB:
+    CA_MB:
+        country: 'CA'
+        subdivision: 'MB'
+Canada_NB:
+    CA_NB:
+        country: 'CA'
+        subdivision: 'NB'
+Canada_NL:
+    CA_NL:
+        country: 'CA'
+        subdivision: 'NL'
+Canada_NS:
+    CA_NS:
+        country: 'CA'
+        subdivision: 'NS'
+Canada_NT:
+    CA_NT:
+        country: 'CA'
+        subdivision: 'NT'
+Canada_NU:
+    CA_NU:
+        country: 'CA'
+        subdivision: 'NU'
+Canada_ON:
+    CA_ON:
+        country: 'CA'
+        subdivision: 'ON'
+Canada_PE:
+    CA_PE:
+        country: 'CA'
+        subdivision: 'PE'
+Canada_QC:
+    CA_QC:
+        country: 'CA'
+        subdivision: 'QC'
+Canada_SK:
+    CA_SK:
+        country: 'CA'
+        subdivision: 'SK'
+Canada_YT:
+    CA_YT:
+        country: 'CA'
+        subdivision: 'YT'
+Chad_:
+    TD_:
+        country: 'TD'
+        subdivision: ''
+Chile_:
+    CL_:
+        country: 'CL'
+        subdivision: ''
+Chile_AI:
+    CL_AI:
+        country: 'CL'
+        subdivision: 'AI'
+Chile_AN:
+    CL_AN:
+        country: 'CL'
+        subdivision: 'AN'
+Chile_AP:
+    CL_AP:
+        country: 'CL'
+        subdivision: 'AP'
+Chile_AR:
+    CL_AR:
+        country: 'CL'
+        subdivision: 'AR'
+Chile_AT:
+    CL_AT:
+        country: 'CL'
+        subdivision: 'AT'
+Chile_BI:
+    CL_BI:
+        country: 'CL'
+        subdivision: 'BI'
+Chile_CO:
+    CL_CO:
+        country: 'CL'
+        subdivision: 'CO'
+Chile_LI:
+    CL_LI:
+        country: 'CL'
+        subdivision: 'LI'
+Chile_LL:
+    CL_LL:
+        country: 'CL'
+        subdivision: 'LL'
+Chile_LR:
+    CL_LR:
+        country: 'CL'
+        subdivision: 'LR'
+Chile_MA:
+    CL_MA:
+        country: 'CL'
+        subdivision: 'MA'
+Chile_ML:
+    CL_ML:
+        country: 'CL'
+        subdivision: 'ML'
+Chile_NB:
+    CL_NB:
+        country: 'CL'
+        subdivision: 'NB'
+Chile_RM:
+    CL_RM:
+        country: 'CL'
+        subdivision: 'RM'
+Chile_TA:
+    CL_TA:
+        country: 'CL'
+        subdivision: 'TA'
+Chile_VS:
+    CL_VS:
+        country: 'CL'
+        subdivision: 'VS'
+China_:
+    CN_:
+        country: 'CN'
+        subdivision: ''
+Colombia_:
+    CO_:
+        country: 'CO'
+        subdivision: ''
+Costa Rica_:
+    CR_:
+        country: 'CR'
+        subdivision: ''
+Croatia_:
+    HR_:
+        country: 'HR'
+        subdivision: ''
+Cuba_:
+    CU_:
+        country: 'CU'
+        subdivision: ''
+Curacao_:
+    CW_:
+        country: 'CW'
+        subdivision: ''
+Cyprus_:
+    CY_:
+        country: 'CY'
+        subdivision: ''
+Czechia_:
+    CZ_:
+        country: 'CZ'
+        subdivision: ''
+Denmark_:
+    DK_:
+        country: 'DK'
+        subdivision: ''
+Djibouti_:
+    DJ_:
+        country: 'DJ'
+        subdivision: ''
+Dominican Republic_:
+    DO_:
+        country: 'DO'
+        subdivision: ''
+Ecuador_:
+    EC_:
+        country: 'EC'
+        subdivision: ''
+Egypt_:
+    EG_:
+        country: 'EG'
+        subdivision: ''
+El Salvador_AH:
+    SV_AH:
+        country: 'SV'
+        subdivision: 'AH'
+El Salvador_CA:
+    SV_CA:
+        country: 'SV'
+        subdivision: 'CA'
+El Salvador_CH:
+    SV_CH:
+        country: 'SV'
+        subdivision: 'CH'
+El Salvador_CU:
+    SV_CU:
+        country: 'SV'
+        subdivision: 'CU'
+El Salvador_LI:
+    SV_LI:
+        country: 'SV'
+        subdivision: 'LI'
+El Salvador_MO:
+    SV_MO:
+        country: 'SV'
+        subdivision: 'MO'
+El Salvador_PA:
+    SV_PA:
+        country: 'SV'
+        subdivision: 'PA'
+El Salvador_SA:
+    SV_SA:
+        country: 'SV'
+        subdivision: 'SA'
+El Salvador_SM:
+    SV_SM:
+        country: 'SV'
+        subdivision: 'SM'
+El Salvador_SO:
+    SV_SO:
+        country: 'SV'
+        subdivision: 'SO'
+El Salvador_SS:
+    SV_SS:
+        country: 'SV'
+        subdivision: 'SS'
+El Salvador_SV:
+    SV_SV:
+        country: 'SV'
+        subdivision: 'SV'
+El Salvador_UN:
+    SV_UN:
+        country: 'SV'
+        subdivision: 'UN'
+El Salvador_US:
+    SV_US:
+        country: 'SV'
+        subdivision: 'US'
+El Salvador_:
+    SV_:
+        country: 'SV'
+        subdivision: ''
+Estonia_:
+    EE_:
+        country: 'EE'
+        subdivision: ''
+Eswatini_:
+    SZ_:
+        country: 'SZ'
+        subdivision: ''
+Ethiopia_:
+    ET_:
+        country: 'ET'
+        subdivision: ''
+Finland_:
+    FI_:
+        country: 'FI'
+        subdivision: ''
+France_BL:
+    FR_BL:
+        country: 'FR'
+        subdivision: 'BL'
+France_GES:
+    FR_GES:
+        country: 'FR'
+        subdivision: 'GES'
+France_GP:
+    FR_GP:
+        country: 'FR'
+        subdivision: 'GP'
+France_GY:
+    FR_GY:
+        country: 'FR'
+        subdivision: 'GY'
+France_MF:
+    FR_MF:
+        country: 'FR'
+        subdivision: 'MF'
+France_MQ:
+    FR_MQ:
+        country: 'FR'
+        subdivision: 'MQ'
+France_NC:
+    FR_NC:
+        country: 'FR'
+        subdivision: 'NC'
+France_PF:
+    FR_PF:
+        country: 'FR'
+        subdivision: 'PF'
+France_RE:
+    FR_RE:
+        country: 'FR'
+        subdivision: 'RE'
+France_WF:
+    FR_WF:
+        country: 'FR'
+        subdivision: 'WF'
+France_YT:
+    FR_YT:
+        country: 'FR'
+        subdivision: 'YT'
+France_:
+    FR_:
+        country: 'FR'
+        subdivision: ''
+Gabon_:
+    GA_:
+        country: 'GA'
+        subdivision: ''
+Georgia_:
+    GE_:
+        country: 'GE'
+        subdivision: ''
+Germany_:
+    DE_:
+        country: 'DE'
+        subdivision: ''
+Germany_BB:
+    DE_BB:
+        country: 'DE'
+        subdivision: 'BB'
+Germany_BE:
+    DE_BE:
+        country: 'DE'
+        subdivision: 'BE'
+Germany_BW:
+    DE_BW:
+        country: 'DE'
+        subdivision: 'BW'
+Germany_BY:
+    DE_BY:
+        country: 'DE'
+        subdivision: 'BY'
+Germany_BYP:
+    DE_BYP:
+        country: 'DE'
+        subdivision: 'BYP'
+Germany_HB:
+    DE_HB:
+        country: 'DE'
+        subdivision: 'HB'
+Germany_HE:
+    DE_HE:
+        country: 'DE'
+        subdivision: 'HE'
+Germany_HH:
+    DE_HH:
+        country: 'DE'
+        subdivision: 'HH'
+Germany_MV:
+    DE_MV:
+        country: 'DE'
+        subdivision: 'MV'
+Germany_NI:
+    DE_NI:
+        country: 'DE'
+        subdivision: 'NI'
+Germany_NW:
+    DE_NW:
+        country: 'DE'
+        subdivision: 'NW'
+Germany_RP:
+    DE_RP:
+        country: 'DE'
+        subdivision: 'RP'
+Germany_SH:
+    DE_SH:
+        country: 'DE'
+        subdivision: 'SH'
+Germany_SL:
+    DE_SL:
+        country: 'DE'
+        subdivision: 'SL'
+Germany_SN:
+    DE_SN:
+        country: 'DE'
+        subdivision: 'SN'
+Germany_ST:
+    DE_ST:
+        country: 'DE'
+        subdivision: 'ST'
+Germany_TH:
+    DE_TH:
+        country: 'DE'
+        subdivision: 'TH'
+Greece_:
+    GR_:
+        country: 'GR'
+        subdivision: ''
+Guam_:
+    GU_:
+        country: 'GU'
+        subdivision: ''
+Guatemala_:
+    GT_:
+        country: 'GT'
+        subdivision: ''
+Honduras_:
+    HN_:
+        country: 'HN'
+        subdivision: ''
+Hong Kong_:
+    HK_:
+        country: 'HK'
+        subdivision: ''
+Hungary_:
+    HU_:
+        country: 'HU'
+        subdivision: ''
+Iceland_:
+    IS_:
+        country: 'IS'
+        subdivision: ''
+India_:
+    IN_:
+        country: 'IN'
+        subdivision: ''
+India_AN:
+    IN_AN:
+        country: 'IN'
+        subdivision: 'AN'
+India_AP:
+    IN_AP:
+        country: 'IN'
+        subdivision: 'AP'
+India_AR:
+    IN_AR:
+        country: 'IN'
+        subdivision: 'AR'
+India_AS:
+    IN_AS:
+        country: 'IN'
+        subdivision: 'AS'
+India_BR:
+    IN_BR:
+        country: 'IN'
+        subdivision: 'BR'
+India_CG:
+    IN_CG:
+        country: 'IN'
+        subdivision: 'CG'
+India_CH:
+    IN_CH:
+        country: 'IN'
+        subdivision: 'CH'
+India_DD:
+    IN_DD:
+        country: 'IN'
+        subdivision: 'DD'
+India_DH:
+    IN_DH:
+        country: 'IN'
+        subdivision: 'DH'
+India_DL:
+    IN_DL:
+        country: 'IN'
+        subdivision: 'DL'
+India_GA:
+    IN_GA:
+        country: 'IN'
+        subdivision: 'GA'
+India_GJ:
+    IN_GJ:
+        country: 'IN'
+        subdivision: 'GJ'
+India_HP:
+    IN_HP:
+        country: 'IN'
+        subdivision: 'HP'
+India_HR:
+    IN_HR:
+        country: 'IN'
+        subdivision: 'HR'
+India_JH:
+    IN_JH:
+        country: 'IN'
+        subdivision: 'JH'
+India_JK:
+    IN_JK:
+        country: 'IN'
+        subdivision: 'JK'
+India_KA:
+    IN_KA:
+        country: 'IN'
+        subdivision: 'KA'
+India_KL:
+    IN_KL:
+        country: 'IN'
+        subdivision: 'KL'
+India_LA:
+    IN_LA:
+        country: 'IN'
+        subdivision: 'LA'
+India_LD:
+    IN_LD:
+        country: 'IN'
+        subdivision: 'LD'
+India_MH:
+    IN_MH:
+        country: 'IN'
+        subdivision: 'MH'
+India_ML:
+    IN_ML:
+        country: 'IN'
+        subdivision: 'ML'
+India_MN:
+    IN_MN:
+        country: 'IN'
+        subdivision: 'MN'
+India_MP:
+    IN_MP:
+        country: 'IN'
+        subdivision: 'MP'
+India_MZ:
+    IN_MZ:
+        country: 'IN'
+        subdivision: 'MZ'
+India_NL:
+    IN_NL:
+        country: 'IN'
+        subdivision: 'NL'
+India_OR:
+    IN_OR:
+        country: 'IN'
+        subdivision: 'OR'
+India_PB:
+    IN_PB:
+        country: 'IN'
+        subdivision: 'PB'
+India_PY:
+    IN_PY:
+        country: 'IN'
+        subdivision: 'PY'
+India_RJ:
+    IN_RJ:
+        country: 'IN'
+        subdivision: 'RJ'
+India_SK:
+    IN_SK:
+        country: 'IN'
+        subdivision: 'SK'
+India_TN:
+    IN_TN:
+        country: 'IN'
+        subdivision: 'TN'
+India_TR:
+    IN_TR:
+        country: 'IN'
+        subdivision: 'TR'
+India_TS:
+    IN_TS:
+        country: 'IN'
+        subdivision: 'TS'
+India_UK:
+    IN_UK:
+        country: 'IN'
+        subdivision: 'UK'
+India_UP:
+    IN_UP:
+        country: 'IN'
+        subdivision: 'UP'
+India_WB:
+    IN_WB:
+        country: 'IN'
+        subdivision: 'WB'
+Indonesia_:
+    ID_:
+        country: 'ID'
+        subdivision: ''
+Iran_:
+    IR_:
+        country: 'IR'
+        subdivision: ''
+Ireland_:
+    IE_:
+        country: 'IE'
+        subdivision: ''
+Isle of Man_:
+    IM_:
+        country: 'IM'
+        subdivision: ''
+Israel_:
+    IL_:
+        country: 'IL'
+        subdivision: ''
+Italy_Andria:
+    IT_Andria:
+        country: 'IT'
+        subdivision: 'Andria'
+Italy_Barletta:
+    IT_Barletta:
+        country: 'IT'
+        subdivision: 'Barletta'
+Italy_Cesena:
+    IT_Cesena:
+        country: 'IT'
+        subdivision: 'Cesena'
+Italy_Forli:
+    IT_Forli:
+        country: 'IT'
+        subdivision: 'Forli'
+Italy_Pesaro:
+    IT_Pesaro:
+        country: 'IT'
+        subdivision: 'Pesaro'
+Italy_Trani:
+    IT_Trani:
+        country: 'IT'
+        subdivision: 'Trani'
+Italy_Urbino:
+    IT_Urbino:
+        country: 'IT'
+        subdivision: 'Urbino'
+Italy_:
+    IT_:
+        country: 'IT'
+        subdivision: ''
+Italy_AG:
+    IT_AG:
+        country: 'IT'
+        subdivision: 'AG'
+Italy_AL:
+    IT_AL:
+        country: 'IT'
+        subdivision: 'AL'
+Italy_AN:
+    IT_AN:
+        country: 'IT'
+        subdivision: 'AN'
+Italy_AO:
+    IT_AO:
+        country: 'IT'
+        subdivision: 'AO'
+Italy_AP:
+    IT_AP:
+        country: 'IT'
+        subdivision: 'AP'
+Italy_AQ:
+    IT_AQ:
+        country: 'IT'
+        subdivision: 'AQ'
+Italy_AR:
+    IT_AR:
+        country: 'IT'
+        subdivision: 'AR'
+Italy_AT:
+    IT_AT:
+        country: 'IT'
+        subdivision: 'AT'
+Italy_AV:
+    IT_AV:
+        country: 'IT'
+        subdivision: 'AV'
+Italy_BA:
+    IT_BA:
+        country: 'IT'
+        subdivision: 'BA'
+Italy_BG:
+    IT_BG:
+        country: 'IT'
+        subdivision: 'BG'
+Italy_BI:
+    IT_BI:
+        country: 'IT'
+        subdivision: 'BI'
+Italy_BL:
+    IT_BL:
+        country: 'IT'
+        subdivision: 'BL'
+Italy_BN:
+    IT_BN:
+        country: 'IT'
+        subdivision: 'BN'
+Italy_BO:
+    IT_BO:
+        country: 'IT'
+        subdivision: 'BO'
+Italy_BR:
+    IT_BR:
+        country: 'IT'
+        subdivision: 'BR'
+Italy_BS:
+    IT_BS:
+        country: 'IT'
+        subdivision: 'BS'
+Italy_BT:
+    IT_BT:
+        country: 'IT'
+        subdivision: 'BT'
+Italy_BZ:
+    IT_BZ:
+        country: 'IT'
+        subdivision: 'BZ'
+Italy_CA:
+    IT_CA:
+        country: 'IT'
+        subdivision: 'CA'
+Italy_CB:
+    IT_CB:
+        country: 'IT'
+        subdivision: 'CB'
+Italy_CE:
+    IT_CE:
+        country: 'IT'
+        subdivision: 'CE'
+Italy_CH:
+    IT_CH:
+        country: 'IT'
+        subdivision: 'CH'
+Italy_CL:
+    IT_CL:
+        country: 'IT'
+        subdivision: 'CL'
+Italy_CN:
+    IT_CN:
+        country: 'IT'
+        subdivision: 'CN'
+Italy_CO:
+    IT_CO:
+        country: 'IT'
+        subdivision: 'CO'
+Italy_CR:
+    IT_CR:
+        country: 'IT'
+        subdivision: 'CR'
+Italy_CS:
+    IT_CS:
+        country: 'IT'
+        subdivision: 'CS'
+Italy_CT:
+    IT_CT:
+        country: 'IT'
+        subdivision: 'CT'
+Italy_CZ:
+    IT_CZ:
+        country: 'IT'
+        subdivision: 'CZ'
+Italy_EN:
+    IT_EN:
+        country: 'IT'
+        subdivision: 'EN'
+Italy_FC:
+    IT_FC:
+        country: 'IT'
+        subdivision: 'FC'
+Italy_FE:
+    IT_FE:
+        country: 'IT'
+        subdivision: 'FE'
+Italy_FG:
+    IT_FG:
+        country: 'IT'
+        subdivision: 'FG'
+Italy_FI:
+    IT_FI:
+        country: 'IT'
+        subdivision: 'FI'
+Italy_FM:
+    IT_FM:
+        country: 'IT'
+        subdivision: 'FM'
+Italy_FR:
+    IT_FR:
+        country: 'IT'
+        subdivision: 'FR'
+Italy_GE:
+    IT_GE:
+        country: 'IT'
+        subdivision: 'GE'
+Italy_GO:
+    IT_GO:
+        country: 'IT'
+        subdivision: 'GO'
+Italy_GR:
+    IT_GR:
+        country: 'IT'
+        subdivision: 'GR'
+Italy_IM:
+    IT_IM:
+        country: 'IT'
+        subdivision: 'IM'
+Italy_IS:
+    IT_IS:
+        country: 'IT'
+        subdivision: 'IS'
+Italy_KR:
+    IT_KR:
+        country: 'IT'
+        subdivision: 'KR'
+Italy_LC:
+    IT_LC:
+        country: 'IT'
+        subdivision: 'LC'
+Italy_LE:
+    IT_LE:
+        country: 'IT'
+        subdivision: 'LE'
+Italy_LI:
+    IT_LI:
+        country: 'IT'
+        subdivision: 'LI'
+Italy_LO:
+    IT_LO:
+        country: 'IT'
+        subdivision: 'LO'
+Italy_LT:
+    IT_LT:
+        country: 'IT'
+        subdivision: 'LT'
+Italy_LU:
+    IT_LU:
+        country: 'IT'
+        subdivision: 'LU'
+Italy_MB:
+    IT_MB:
+        country: 'IT'
+        subdivision: 'MB'
+Italy_MC:
+    IT_MC:
+        country: 'IT'
+        subdivision: 'MC'
+Italy_ME:
+    IT_ME:
+        country: 'IT'
+        subdivision: 'ME'
+Italy_MI:
+    IT_MI:
+        country: 'IT'
+        subdivision: 'MI'
+Italy_MN:
+    IT_MN:
+        country: 'IT'
+        subdivision: 'MN'
+Italy_MO:
+    IT_MO:
+        country: 'IT'
+        subdivision: 'MO'
+Italy_MS:
+    IT_MS:
+        country: 'IT'
+        subdivision: 'MS'
+Italy_MT:
+    IT_MT:
+        country: 'IT'
+        subdivision: 'MT'
+Italy_NA:
+    IT_NA:
+        country: 'IT'
+        subdivision: 'NA'
+Italy_NO:
+    IT_NO:
+        country: 'IT'
+        subdivision: 'NO'
+Italy_NU:
+    IT_NU:
+        country: 'IT'
+        subdivision: 'NU'
+Italy_OR:
+    IT_OR:
+        country: 'IT'
+        subdivision: 'OR'
+Italy_PA:
+    IT_PA:
+        country: 'IT'
+        subdivision: 'PA'
+Italy_PC:
+    IT_PC:
+        country: 'IT'
+        subdivision: 'PC'
+Italy_PD:
+    IT_PD:
+        country: 'IT'
+        subdivision: 'PD'
+Italy_PE:
+    IT_PE:
+        country: 'IT'
+        subdivision: 'PE'
+Italy_PG:
+    IT_PG:
+        country: 'IT'
+        subdivision: 'PG'
+Italy_PI:
+    IT_PI:
+        country: 'IT'
+        subdivision: 'PI'
+Italy_PN:
+    IT_PN:
+        country: 'IT'
+        subdivision: 'PN'
+Italy_PO:
+    IT_PO:
+        country: 'IT'
+        subdivision: 'PO'
+Italy_PR:
+    IT_PR:
+        country: 'IT'
+        subdivision: 'PR'
+Italy_PT:
+    IT_PT:
+        country: 'IT'
+        subdivision: 'PT'
+Italy_PU:
+    IT_PU:
+        country: 'IT'
+        subdivision: 'PU'
+Italy_PV:
+    IT_PV:
+        country: 'IT'
+        subdivision: 'PV'
+Italy_PZ:
+    IT_PZ:
+        country: 'IT'
+        subdivision: 'PZ'
+Italy_RA:
+    IT_RA:
+        country: 'IT'
+        subdivision: 'RA'
+Italy_RC:
+    IT_RC:
+        country: 'IT'
+        subdivision: 'RC'
+Italy_RE:
+    IT_RE:
+        country: 'IT'
+        subdivision: 'RE'
+Italy_RG:
+    IT_RG:
+        country: 'IT'
+        subdivision: 'RG'
+Italy_RI:
+    IT_RI:
+        country: 'IT'
+        subdivision: 'RI'
+Italy_RM:
+    IT_RM:
+        country: 'IT'
+        subdivision: 'RM'
+Italy_RN:
+    IT_RN:
+        country: 'IT'
+        subdivision: 'RN'
+Italy_RO:
+    IT_RO:
+        country: 'IT'
+        subdivision: 'RO'
+Italy_SA:
+    IT_SA:
+        country: 'IT'
+        subdivision: 'SA'
+Italy_SI:
+    IT_SI:
+        country: 'IT'
+        subdivision: 'SI'
+Italy_SO:
+    IT_SO:
+        country: 'IT'
+        subdivision: 'SO'
+Italy_SP:
+    IT_SP:
+        country: 'IT'
+        subdivision: 'SP'
+Italy_SR:
+    IT_SR:
+        country: 'IT'
+        subdivision: 'SR'
+Italy_SS:
+    IT_SS:
+        country: 'IT'
+        subdivision: 'SS'
+Italy_SU:
+    IT_SU:
+        country: 'IT'
+        subdivision: 'SU'
+Italy_SV:
+    IT_SV:
+        country: 'IT'
+        subdivision: 'SV'
+Italy_TA:
+    IT_TA:
+        country: 'IT'
+        subdivision: 'TA'
+Italy_TE:
+    IT_TE:
+        country: 'IT'
+        subdivision: 'TE'
+Italy_TN:
+    IT_TN:
+        country: 'IT'
+        subdivision: 'TN'
+Italy_TO:
+    IT_TO:
+        country: 'IT'
+        subdivision: 'TO'
+Italy_TP:
+    IT_TP:
+        country: 'IT'
+        subdivision: 'TP'
+Italy_TR:
+    IT_TR:
+        country: 'IT'
+        subdivision: 'TR'
+Italy_TS:
+    IT_TS:
+        country: 'IT'
+        subdivision: 'TS'
+Italy_TV:
+    IT_TV:
+        country: 'IT'
+        subdivision: 'TV'
+Italy_UD:
+    IT_UD:
+        country: 'IT'
+        subdivision: 'UD'
+Italy_VA:
+    IT_VA:
+        country: 'IT'
+        subdivision: 'VA'
+Italy_VB:
+    IT_VB:
+        country: 'IT'
+        subdivision: 'VB'
+Italy_VC:
+    IT_VC:
+        country: 'IT'
+        subdivision: 'VC'
+Italy_VE:
+    IT_VE:
+        country: 'IT'
+        subdivision: 'VE'
+Italy_VI:
+    IT_VI:
+        country: 'IT'
+        subdivision: 'VI'
+Italy_VR:
+    IT_VR:
+        country: 'IT'
+        subdivision: 'VR'
+Italy_VT:
+    IT_VT:
+        country: 'IT'
+        subdivision: 'VT'
+Italy_VV:
+    IT_VV:
+        country: 'IT'
+        subdivision: 'VV'
+Jamaica_:
+    JM_:
+        country: 'JM'
+        subdivision: ''
+Japan_:
+    JP_:
+        country: 'JP'
+        subdivision: ''
+Kazakhstan_:
+    KZ_:
+        country: 'KZ'
+        subdivision: ''
+Kenya_:
+    KE_:
+        country: 'KE'
+        subdivision: ''
+Kyrgyzstan_:
+    KG_:
+        country: 'KG'
+        subdivision: ''
+Laos_:
+    LA_:
+        country: 'LA'
+        subdivision: ''
+Latvia_:
+    LV_:
+        country: 'LV'
+        subdivision: ''
+Lesotho_:
+    LS_:
+        country: 'LS'
+        subdivision: ''
+Liechtenstein_:
+    LI_:
+        country: 'LI'
+        subdivision: ''
+Lithuania_:
+    LT_:
+        country: 'LT'
+        subdivision: ''
+Luxembourg_:
+    LU_:
+        country: 'LU'
+        subdivision: ''
+Madagascar_:
+    MG_:
+        country: 'MG'
+        subdivision: ''
+Malawi_:
+    MW_:
+        country: 'MW'
+        subdivision: ''
+Malaysia_:
+    MY_:
+        country: 'MY'
+        subdivision: ''
+Malaysia_JHR:
+    MY_JHR:
+        country: 'MY'
+        subdivision: 'JHR'
+Malaysia_KDH:
+    MY_KDH:
+        country: 'MY'
+        subdivision: 'KDH'
+Malaysia_KTN:
+    MY_KTN:
+        country: 'MY'
+        subdivision: 'KTN'
+Malaysia_KUL:
+    MY_KUL:
+        country: 'MY'
+        subdivision: 'KUL'
+Malaysia_LBN:
+    MY_LBN:
+        country: 'MY'
+        subdivision: 'LBN'
+Malaysia_MLK:
+    MY_MLK:
+        country: 'MY'
+        subdivision: 'MLK'
+Malaysia_NSN:
+    MY_NSN:
+        country: 'MY'
+        subdivision: 'NSN'
+Malaysia_PHG:
+    MY_PHG:
+        country: 'MY'
+        subdivision: 'PHG'
+Malaysia_PJY:
+    MY_PJY:
+        country: 'MY'
+        subdivision: 'PJY'
+Malaysia_PLS:
+    MY_PLS:
+        country: 'MY'
+        subdivision: 'PLS'
+Malaysia_PNG:
+    MY_PNG:
+        country: 'MY'
+        subdivision: 'PNG'
+Malaysia_PRK:
+    MY_PRK:
+        country: 'MY'
+        subdivision: 'PRK'
+Malaysia_SBH:
+    MY_SBH:
+        country: 'MY'
+        subdivision: 'SBH'
+Malaysia_SGR:
+    MY_SGR:
+        country: 'MY'
+        subdivision: 'SGR'
+Malaysia_SWK:
+    MY_SWK:
+        country: 'MY'
+        subdivision: 'SWK'
+Malaysia_TRG:
+    MY_TRG:
+        country: 'MY'
+        subdivision: 'TRG'
+Maldives_:
+    MV_:
+        country: 'MV'
+        subdivision: ''
+Malta_:
+    MT_:
+        country: 'MT'
+        subdivision: ''
+Marshall Islands (the)_:
+    MH_:
+        country: 'MH'
+        subdivision: ''
+Mexico_:
+    MX_:
+        country: 'MX'
+        subdivision: ''
+Moldova_:
+    MD_:
+        country: 'MD'
+        subdivision: ''
+Monaco_:
+    MC_:
+        country: 'MC'
+        subdivision: ''
+Montenegro_:
+    ME_:
+        country: 'ME'
+        subdivision: ''
+Morocco_:
+    MA_:
+        country: 'MA'
+        subdivision: ''
+Mozambique_:
+    MZ_:
+        country: 'MZ'
+        subdivision: ''
+Namibia_:
+    _:
+        country: ''
+        subdivision: ''
+Netherlands_:
+    NL_:
+        country: 'NL'
+        subdivision: ''
+New Zealand_:
+    NZ_:
+        country: 'NZ'
+        subdivision: ''
+New Zealand_AUK:
+    NZ_AUK:
+        country: 'NZ'
+        subdivision: 'AUK'
+New Zealand_BOP:
+    NZ_BOP:
+        country: 'NZ'
+        subdivision: 'BOP'
+New Zealand_CAN:
+    NZ_CAN:
+        country: 'NZ'
+        subdivision: 'CAN'
+New Zealand_CIT:
+    NZ_CIT:
+        country: 'NZ'
+        subdivision: 'CIT'
+New Zealand_GIS:
+    NZ_GIS:
+        country: 'NZ'
+        subdivision: 'GIS'
+New Zealand_HKB:
+    NZ_HKB:
+        country: 'NZ'
+        subdivision: 'HKB'
+New Zealand_MBH:
+    NZ_MBH:
+        country: 'NZ'
+        subdivision: 'MBH'
+New Zealand_MWT:
+    NZ_MWT:
+        country: 'NZ'
+        subdivision: 'MWT'
+New Zealand_NSN:
+    NZ_NSN:
+        country: 'NZ'
+        subdivision: 'NSN'
+New Zealand_NTL:
+    NZ_NTL:
+        country: 'NZ'
+        subdivision: 'NTL'
+New Zealand_OTA:
+    NZ_OTA:
+        country: 'NZ'
+        subdivision: 'OTA'
+New Zealand_STL:
+    NZ_STL:
+        country: 'NZ'
+        subdivision: 'STL'
+New Zealand_TAS:
+    NZ_TAS:
+        country: 'NZ'
+        subdivision: 'TAS'
+New Zealand_TKI:
+    NZ_TKI:
+        country: 'NZ'
+        subdivision: 'TKI'
+New Zealand_WGN:
+    NZ_WGN:
+        country: 'NZ'
+        subdivision: 'WGN'
+New Zealand_WKO:
+    NZ_WKO:
+        country: 'NZ'
+        subdivision: 'WKO'
+New Zealand_WTC:
+    NZ_WTC:
+        country: 'NZ'
+        subdivision: 'WTC'
+Nicaragua_AN:
+    NI_AN:
+        country: 'NI'
+        subdivision: 'AN'
+Nicaragua_AS:
+    NI_AS:
+        country: 'NI'
+        subdivision: 'AS'
+Nicaragua_BO:
+    NI_BO:
+        country: 'NI'
+        subdivision: 'BO'
+Nicaragua_CA:
+    NI_CA:
+        country: 'NI'
+        subdivision: 'CA'
+Nicaragua_CI:
+    NI_CI:
+        country: 'NI'
+        subdivision: 'CI'
+Nicaragua_CO:
+    NI_CO:
+        country: 'NI'
+        subdivision: 'CO'
+Nicaragua_ES:
+    NI_ES:
+        country: 'NI'
+        subdivision: 'ES'
+Nicaragua_GR:
+    NI_GR:
+        country: 'NI'
+        subdivision: 'GR'
+Nicaragua_JI:
+    NI_JI:
+        country: 'NI'
+        subdivision: 'JI'
+Nicaragua_LE:
+    NI_LE:
+        country: 'NI'
+        subdivision: 'LE'
+Nicaragua_MD:
+    NI_MD:
+        country: 'NI'
+        subdivision: 'MD'
+Nicaragua_MN:
+    NI_MN:
+        country: 'NI'
+        subdivision: 'MN'
+Nicaragua_MS:
+    NI_MS:
+        country: 'NI'
+        subdivision: 'MS'
+Nicaragua_MT:
+    NI_MT:
+        country: 'NI'
+        subdivision: 'MT'
+Nicaragua_NS:
+    NI_NS:
+        country: 'NI'
+        subdivision: 'NS'
+Nicaragua_RI:
+    NI_RI:
+        country: 'NI'
+        subdivision: 'RI'
+Nicaragua_SJ:
+    NI_SJ:
+        country: 'NI'
+        subdivision: 'SJ'
+Nicaragua_:
+    NI_:
+        country: 'NI'
+        subdivision: ''
+Nigeria_:
+    NG_:
+        country: 'NG'
+        subdivision: ''
+North Macedonia_:
+    MK_:
+        country: 'MK'
+        subdivision: ''
+Northern Mariana Islands (the)_:
+    MP_:
+        country: 'MP'
+        subdivision: ''
+Norway_:
+    NO_:
+        country: 'NO'
+        subdivision: ''
+Pakistan_:
+    PK_:
+        country: 'PK'
+        subdivision: ''
+Panama_:
+    PA_:
+        country: 'PA'
+        subdivision: ''
+Papua New Guinea_:
+    PG_:
+        country: 'PG'
+        subdivision: ''
+Paraguay_:
+    PY_:
+        country: 'PY'
+        subdivision: ''
+Peru_:
+    PE_:
+        country: 'PE'
+        subdivision: ''
+Philippines_:
+    PH_:
+        country: 'PH'
+        subdivision: ''
+Poland_:
+    PL_:
+        country: 'PL'
+        subdivision: ''
+Portugal_01:
+    PT_01:
+        country: 'PT'
+        subdivision: '01'
+Portugal_02:
+    PT_02:
+        country: 'PT'
+        subdivision: '02'
+Portugal_03:
+    PT_03:
+        country: 'PT'
+        subdivision: '03'
+Portugal_04:
+    PT_04:
+        country: 'PT'
+        subdivision: '04'
+Portugal_05:
+    PT_05:
+        country: 'PT'
+        subdivision: '05'
+Portugal_06:
+    PT_06:
+        country: 'PT'
+        subdivision: '06'
+Portugal_07:
+    PT_07:
+        country: 'PT'
+        subdivision: '07'
+Portugal_08:
+    PT_08:
+        country: 'PT'
+        subdivision: '08'
+Portugal_09:
+    PT_09:
+        country: 'PT'
+        subdivision: '09'
+Portugal_10:
+    PT_10:
+        country: 'PT'
+        subdivision: '10'
+Portugal_11:
+    PT_11:
+        country: 'PT'
+        subdivision: '11'
+Portugal_12:
+    PT_12:
+        country: 'PT'
+        subdivision: '12'
+Portugal_13:
+    PT_13:
+        country: 'PT'
+        subdivision: '13'
+Portugal_14:
+    PT_14:
+        country: 'PT'
+        subdivision: '14'
+Portugal_15:
+    PT_15:
+        country: 'PT'
+        subdivision: '15'
+Portugal_16:
+    PT_16:
+        country: 'PT'
+        subdivision: '16'
+Portugal_17:
+    PT_17:
+        country: 'PT'
+        subdivision: '17'
+Portugal_18:
+    PT_18:
+        country: 'PT'
+        subdivision: '18'
+Portugal_20:
+    PT_20:
+        country: 'PT'
+        subdivision: '20'
+Portugal_30:
+    PT_30:
+        country: 'PT'
+        subdivision: '30'
+Portugal_:
+    PT_:
+        country: 'PT'
+        subdivision: ''
+Puerto Rico_:
+    PR_:
+        country: 'PR'
+        subdivision: ''
+Romania_:
+    RO_:
+        country: 'RO'
+        subdivision: ''
+Russia_:
+    RU_:
+        country: 'RU'
+        subdivision: ''
+San Marino_:
+    SM_:
+        country: 'SM'
+        subdivision: ''
+Saudi Arabia_:
+    SA_:
+        country: 'SA'
+        subdivision: ''
+Serbia_:
+    RS_:
+        country: 'RS'
+        subdivision: ''
+Singapore_:
+    SG_:
+        country: 'SG'
+        subdivision: ''
+Slovakia_:
+    SK_:
+        country: 'SK'
+        subdivision: ''
+Slovenia_:
+    SI_:
+        country: 'SI'
+        subdivision: ''
+South Africa_:
+    ZA_:
+        country: 'ZA'
+        subdivision: ''
+South Korea_:
+    KR_:
+        country: 'KR'
+        subdivision: ''
+Spain_AN:
+    ES_AN:
+        country: 'ES'
+        subdivision: 'AN'
+Spain_AR:
+    ES_AR:
+        country: 'ES'
+        subdivision: 'AR'
+Spain_AS:
+    ES_AS:
+        country: 'ES'
+        subdivision: 'AS'
+Spain_CB:
+    ES_CB:
+        country: 'ES'
+        subdivision: 'CB'
+Spain_CE:
+    ES_CE:
+        country: 'ES'
+        subdivision: 'CE'
+Spain_CL:
+    ES_CL:
+        country: 'ES'
+        subdivision: 'CL'
+Spain_CM:
+    ES_CM:
+        country: 'ES'
+        subdivision: 'CM'
+Spain_CN:
+    ES_CN:
+        country: 'ES'
+        subdivision: 'CN'
+Spain_CT:
+    ES_CT:
+        country: 'ES'
+        subdivision: 'CT'
+Spain_EX:
+    ES_EX:
+        country: 'ES'
+        subdivision: 'EX'
+Spain_GA:
+    ES_GA:
+        country: 'ES'
+        subdivision: 'GA'
+Spain_IB:
+    ES_IB:
+        country: 'ES'
+        subdivision: 'IB'
+Spain_MC:
+    ES_MC:
+        country: 'ES'
+        subdivision: 'MC'
+Spain_MD:
+    ES_MD:
+        country: 'ES'
+        subdivision: 'MD'
+Spain_ML:
+    ES_ML:
+        country: 'ES'
+        subdivision: 'ML'
+Spain_NC:
+    ES_NC:
+        country: 'ES'
+        subdivision: 'NC'
+Spain_PV:
+    ES_PV:
+        country: 'ES'
+        subdivision: 'PV'
+Spain_RI:
+    ES_RI:
+        country: 'ES'
+        subdivision: 'RI'
+Spain_VC:
+    ES_VC:
+        country: 'ES'
+        subdivision: 'VC'
+Spain_:
+    ES_:
+        country: 'ES'
+        subdivision: ''
+Sweden_:
+    SE_:
+        country: 'SE'
+        subdivision: ''
+Switzerland_AG:
+    CH_AG:
+        country: 'CH'
+        subdivision: 'AG'
+Switzerland_AR:
+    CH_AR:
+        country: 'CH'
+        subdivision: 'AR'
+Switzerland_AI:
+    CH_AI:
+        country: 'CH'
+        subdivision: 'AI'
+Switzerland_BL:
+    CH_BL:
+        country: 'CH'
+        subdivision: 'BL'
+Switzerland_BS:
+    CH_BS:
+        country: 'CH'
+        subdivision: 'BS'
+Switzerland_BE:
+    CH_BE:
+        country: 'CH'
+        subdivision: 'BE'
+Switzerland_FR:
+    CH_FR:
+        country: 'CH'
+        subdivision: 'FR'
+Switzerland_GE:
+    CH_GE:
+        country: 'CH'
+        subdivision: 'GE'
+Switzerland_GL:
+    CH_GL:
+        country: 'CH'
+        subdivision: 'GL'
+Switzerland_GR:
+    CH_GR:
+        country: 'CH'
+        subdivision: 'GR'
+Switzerland_JU:
+    CH_JU:
+        country: 'CH'
+        subdivision: 'JU'
+Switzerland_LU:
+    CH_LU:
+        country: 'CH'
+        subdivision: 'LU'
+Switzerland_NE:
+    CH_NE:
+        country: 'CH'
+        subdivision: 'NE'
+Switzerland_NW:
+    CH_NW:
+        country: 'CH'
+        subdivision: 'NW'
+Switzerland_OW:
+    CH_OW:
+        country: 'CH'
+        subdivision: 'OW'
+Switzerland_SG:
+    CH_SG:
+        country: 'CH'
+        subdivision: 'SG'
+Switzerland_SH:
+    CH_SH:
+        country: 'CH'
+        subdivision: 'SH'
+Switzerland_SZ:
+    CH_SZ:
+        country: 'CH'
+        subdivision: 'SZ'
+Switzerland_SO:
+    CH_SO:
+        country: 'CH'
+        subdivision: 'SO'
+Switzerland_TG:
+    CH_TG:
+        country: 'CH'
+        subdivision: 'TG'
+Switzerland_TI:
+    CH_TI:
+        country: 'CH'
+        subdivision: 'TI'
+Switzerland_UR:
+    CH_UR:
+        country: 'CH'
+        subdivision: 'UR'
+Switzerland_VD:
+    CH_VD:
+        country: 'CH'
+        subdivision: 'VD'
+Switzerland_VS:
+    CH_VS:
+        country: 'CH'
+        subdivision: 'VS'
+Switzerland_ZG:
+    CH_ZG:
+        country: 'CH'
+        subdivision: 'ZG'
+Switzerland_ZH:
+    CH_ZH:
+        country: 'CH'
+        subdivision: 'ZH'
+Switzerland_:
+    CH_:
+        country: 'CH'
+        subdivision: ''
+Taiwan_:
+    TW_:
+        country: 'TW'
+        subdivision: ''
+Tanzania_:
+    TZ_:
+        country: 'TZ'
+        subdivision: ''
+Thailand_:
+    TH_:
+        country: 'TH'
+        subdivision: ''
+Timor Leste_:
+    TL_:
+        country: 'TL'
+        subdivision: ''
+Tonga_:
+    TO_:
+        country: 'TO'
+        subdivision: ''
+Tunisia_:
+    TN_:
+        country: 'TN'
+        subdivision: ''
+Turkey_:
+    TR_:
+        country: 'TR'
+        subdivision: ''
+Ukraine_:
+    UA_:
+        country: 'UA'
+        subdivision: ''
+United Arab Emirates_:
+    AE_:
+        country: 'AE'
+        subdivision: ''
+United Kingdom_:
+    GB_:
+        country: 'GB'
+        subdivision: ''
+United Kingdom_ENG:
+    GB_ENG:
+        country: 'GB'
+        subdivision: 'ENG'
+United Kingdom_NIR:
+    GB_NIR:
+        country: 'GB'
+        subdivision: 'NIR'
+United Kingdom_SCT:
+    GB_SCT:
+        country: 'GB'
+        subdivision: 'SCT'
+United Kingdom_WLS:
+    GB_WLS:
+        country: 'GB'
+        subdivision: 'WLS'
+United States Minor Outlying Islands_:
+    UM_:
+        country: 'UM'
+        subdivision: ''
+United States of America (the)_:
+    US_:
+        country: 'US'
+        subdivision: ''
+United States of America (the)_AK:
+    US_AK:
+        country: 'US'
+        subdivision: 'AK'
+United States of America (the)_AL:
+    US_AL:
+        country: 'US'
+        subdivision: 'AL'
+United States of America (the)_AR:
+    US_AR:
+        country: 'US'
+        subdivision: 'AR'
+United States of America (the)_AS:
+    US_AS:
+        country: 'US'
+        subdivision: 'AS'
+United States of America (the)_AZ:
+    US_AZ:
+        country: 'US'
+        subdivision: 'AZ'
+United States of America (the)_CA:
+    US_CA:
+        country: 'US'
+        subdivision: 'CA'
+United States of America (the)_CO:
+    US_CO:
+        country: 'US'
+        subdivision: 'CO'
+United States of America (the)_CT:
+    US_CT:
+        country: 'US'
+        subdivision: 'CT'
+United States of America (the)_DC:
+    US_DC:
+        country: 'US'
+        subdivision: 'DC'
+United States of America (the)_DE:
+    US_DE:
+        country: 'US'
+        subdivision: 'DE'
+United States of America (the)_FL:
+    US_FL:
+        country: 'US'
+        subdivision: 'FL'
+United States of America (the)_GA:
+    US_GA:
+        country: 'US'
+        subdivision: 'GA'
+United States of America (the)_GU:
+    US_GU:
+        country: 'US'
+        subdivision: 'GU'
+United States of America (the)_HI:
+    US_HI:
+        country: 'US'
+        subdivision: 'HI'
+United States of America (the)_IA:
+    US_IA:
+        country: 'US'
+        subdivision: 'IA'
+United States of America (the)_ID:
+    US_ID:
+        country: 'US'
+        subdivision: 'ID'
+United States of America (the)_IL:
+    US_IL:
+        country: 'US'
+        subdivision: 'IL'
+United States of America (the)_IN:
+    US_IN:
+        country: 'US'
+        subdivision: 'IN'
+United States of America (the)_KS:
+    US_KS:
+        country: 'US'
+        subdivision: 'KS'
+United States of America (the)_KY:
+    US_KY:
+        country: 'US'
+        subdivision: 'KY'
+United States of America (the)_LA:
+    US_LA:
+        country: 'US'
+        subdivision: 'LA'
+United States of America (the)_MA:
+    US_MA:
+        country: 'US'
+        subdivision: 'MA'
+United States of America (the)_MD:
+    US_MD:
+        country: 'US'
+        subdivision: 'MD'
+United States of America (the)_ME:
+    US_ME:
+        country: 'US'
+        subdivision: 'ME'
+United States of America (the)_MI:
+    US_MI:
+        country: 'US'
+        subdivision: 'MI'
+United States of America (the)_MN:
+    US_MN:
+        country: 'US'
+        subdivision: 'MN'
+United States of America (the)_MO:
+    US_MO:
+        country: 'US'
+        subdivision: 'MO'
+United States of America (the)_MP:
+    US_MP:
+        country: 'US'
+        subdivision: 'MP'
+United States of America (the)_MS:
+    US_MS:
+        country: 'US'
+        subdivision: 'MS'
+United States of America (the)_MT:
+    US_MT:
+        country: 'US'
+        subdivision: 'MT'
+United States of America (the)_NC:
+    US_NC:
+        country: 'US'
+        subdivision: 'NC'
+United States of America (the)_ND:
+    US_ND:
+        country: 'US'
+        subdivision: 'ND'
+United States of America (the)_NE:
+    US_NE:
+        country: 'US'
+        subdivision: 'NE'
+United States of America (the)_NH:
+    US_NH:
+        country: 'US'
+        subdivision: 'NH'
+United States of America (the)_NJ:
+    US_NJ:
+        country: 'US'
+        subdivision: 'NJ'
+United States of America (the)_NM:
+    US_NM:
+        country: 'US'
+        subdivision: 'NM'
+United States of America (the)_NV:
+    US_NV:
+        country: 'US'
+        subdivision: 'NV'
+United States of America (the)_NY:
+    US_NY:
+        country: 'US'
+        subdivision: 'NY'
+United States of America (the)_OH:
+    US_OH:
+        country: 'US'
+        subdivision: 'OH'
+United States of America (the)_OK:
+    US_OK:
+        country: 'US'
+        subdivision: 'OK'
+United States of America (the)_OR:
+    US_OR:
+        country: 'US'
+        subdivision: 'OR'
+United States of America (the)_PA:
+    US_PA:
+        country: 'US'
+        subdivision: 'PA'
+United States of America (the)_PR:
+    US_PR:
+        country: 'US'
+        subdivision: 'PR'
+United States of America (the)_RI:
+    US_RI:
+        country: 'US'
+        subdivision: 'RI'
+United States of America (the)_SC:
+    US_SC:
+        country: 'US'
+        subdivision: 'SC'
+United States of America (the)_SD:
+    US_SD:
+        country: 'US'
+        subdivision: 'SD'
+United States of America (the)_TN:
+    US_TN:
+        country: 'US'
+        subdivision: 'TN'
+United States of America (the)_TX:
+    US_TX:
+        country: 'US'
+        subdivision: 'TX'
+United States of America (the)_UM:
+    US_UM:
+        country: 'US'
+        subdivision: 'UM'
+United States of America (the)_UT:
+    US_UT:
+        country: 'US'
+        subdivision: 'UT'
+United States of America (the)_VA:
+    US_VA:
+        country: 'US'
+        subdivision: 'VA'
+United States of America (the)_VI:
+    US_VI:
+        country: 'US'
+        subdivision: 'VI'
+United States of America (the)_VT:
+    US_VT:
+        country: 'US'
+        subdivision: 'VT'
+United States of America (the)_WA:
+    US_WA:
+        country: 'US'
+        subdivision: 'WA'
+United States of America (the)_WI:
+    US_WI:
+        country: 'US'
+        subdivision: 'WI'
+United States of America (the)_WV:
+    US_WV:
+        country: 'US'
+        subdivision: 'WV'
+United States of America (the)_WY:
+    US_WY:
+        country: 'US'
+        subdivision: 'WY'
+United States Virgin Islands (the)_:
+    _:
+        country: ''
+        subdivision: ''
+Uruguay_:
+    UY_:
+        country: 'UY'
+        subdivision: ''
+Uzbekistan_:
+    UZ_:
+        country: 'UZ'
+        subdivision: ''
+Vanuatu_:
+    VU_:
+        country: 'VU'
+        subdivision: ''
+Vatican City_:
+    VA_:
+        country: 'VA'
+        subdivision: ''
+Venezuela_:
+    VE_:
+        country: 'VE'
+        subdivision: ''
+Vietnam_:
+    VN_:
+        country: 'VN'
+        subdivision: ''
+Virgin Islands (U.S.)_:
+    VI_:
+        country: 'VI'
+        subdivision: ''
+Zambia_:
+    ZM_:
+        country: 'ZM'
+        subdivision: ''
+Zimbabwe_:
+    ZW_:
+        country: 'ZW'
+        subdivision: ''
